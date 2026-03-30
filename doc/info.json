@@ -8,7 +8,7 @@
   "sealring_x": 2000.0,
   "sealring_y": 2000.0,
   "repository": "https://github.com/jona250210/IHP__SoC4219.git",
-  "pdk_version": "",
+  "pdk_version": "4e8cf49ea1a6898c83594e8668a0024c0203789b",
   "process": "SG13CMOS",
   "dependencies": {},
   "tools": {},
